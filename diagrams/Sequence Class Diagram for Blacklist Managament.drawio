@@ -106,9 +106,6 @@
         <mxCell id="7Bn_i4xmb7pETKimLmk4-27" value="5. count" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="390" y="408" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7Bn_i4xmb7pETKimLmk4-28" value="charge tokens&lt;br&gt;&lt;div&gt;controller&lt;/div&gt;" style="ellipse;shape=umlControl;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="140" width="80" height="90" as="geometry" />
-        </mxCell>
         <mxCell id="7Bn_i4xmb7pETKimLmk4-29" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="840" y="560" as="sourcePoint" />
@@ -132,6 +129,9 @@
         </mxCell>
         <mxCell id="7Bn_i4xmb7pETKimLmk4-33" value="7. deduct" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="740" y="488" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="7Bn_i4xmb7pETKimLmk4-35" value="token DB" style="ellipse;shape=umlEntity;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="150" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
