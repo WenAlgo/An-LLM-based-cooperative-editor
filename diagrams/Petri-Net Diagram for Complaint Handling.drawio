@@ -261,6 +261,18 @@
         <mxCell id="s8JQBTS8YyVmTO_ZYdhj-58" value="super user" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="500" y="130" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="s8JQBTS8YyVmTO_ZYdhj-59" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="170" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="s8JQBTS8YyVmTO_ZYdhj-60" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="170" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="s8JQBTS8YyVmTO_ZYdhj-61" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="170" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="s8JQBTS8YyVmTO_ZYdhj-62" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="290" width="20" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
