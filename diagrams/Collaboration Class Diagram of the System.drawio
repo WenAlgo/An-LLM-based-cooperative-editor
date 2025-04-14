@@ -1,4 +1,4 @@
-# Create and save a .drawio file containing the Collaboration Class Diagram using the provided minimal structure
+# Re-saving the .drawio file since the code state has been reset
 
 collab_class_drawio = '''<mxfile host="app.diagrams.net" version="26.2.12">
   <diagram name="Collaboration Class Diagram" id="dIue5N3KtkGz_4be8HRj">
@@ -82,9 +82,9 @@ collab_class_drawio = '''<mxfile host="app.diagrams.net" version="26.2.12">
 </mxfile>
 '''
 
-# Save it to a file
+# Save to file
 drawio_path = "/mnt/data/Collaboration_Class_Diagram_Final.drawio"
-with open(drawio_path, "w") as file:
-    file.write(collab_class_drawio)
+with open(drawio_path, "w") as f:
+    f.write(collab_class_drawio)
 
 drawio_path
