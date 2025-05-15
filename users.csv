@@ -1,0 +1,6 @@
+id,username,password,role,tokens
+1,admin,admin123,super,1000
+2,paid_user1,123456,paid,500
+3,paid_user2,123456,paid,300
+4,free_user1,123456,free,100
+5,free_user2,123456,free,100
